@@ -104,26 +104,36 @@ jupyter notebook rag_system.ipynb
 ### Example 1: Direct Question
 
 **User:**  
-What AI projects has Alex worked on?
+What AI projects has Olasunkanmi worked on?
 
 **System:**  
-Alex has worked on projects including car price prediction, retail sales forecasting, a retrieval-augmented generation chatbot, and student performance prediction.
+Olasunkanmi Akeem Rasak has worked on the following AI projects:
+- Sales forecasting
+- Car price prediction
+- Student performance analytics
+- Forex trading strategy automation
+- Hybrid car scanner automation
+- Document-based AI systems
 
 **Sources:**  
-- AI & Machine Learning Projects document
+- documents\Personal Biography.pdf
+- documents\Professional Resume.pdf
 
 ---
 
 ### Example 2: Follow-Up Question (Conversational Memory)
 
 **User:**  
-Which of those projects involve RAG systems?
+Which of those involve RAG systems?
 
 **System:**  
-The Retrieval-Augmented Generation chatbot project specifically involves RAG systems by combining document retrieval with language generation.
+Olasunkanmi Akeem Rasak has worked on the following projects involving Retrieval-Augmented Generation (RAG) systems:
+- Retrieval-Augmented Generation (RAG) Systems
+- Retrieval-Augmented Generation (RAG) Chatbot
 
-**Sources:**  
-- AI & Machine Learning Projects document
+**Sources:** 
+- documents\Professional Resume.pdf
+- documents\AI & ML Projects.pdf
 
 ---
 
